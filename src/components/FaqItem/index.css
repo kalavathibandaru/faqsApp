@@ -1,0 +1,37 @@
+/* Write your code here. */
+
+.question {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #52606d;
+}
+
+.adjusting {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  border-style: none;
+  background-color: transparent;
+}
+
+.list-item {
+  border-style: solid;
+  border-color: #9aa5b1;
+  border-width: 1px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.answer {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #9aa5b1;
+}
+
+.horizontal-line {
+  color: #9aa5b1;
+}
